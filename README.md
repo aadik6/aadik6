@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=aadik6)
-
 # 💫 About Me:
 👋 Hi there! I’m Aadarsh Kushwah, a developer passionate about crafting efficient and user-friendly applications.<br>🖥️ Skilled in frontend development.<br>🚀 actively expanding my expertise in backend technologies like MongoDB and Express.<br>🌱 Exploring opportunities to create impactful apps, with a focus on innovation in Nepal.<br>🌟 Open to collaborations and always excited to learn and share knowledge.<br>🔗 Let’s connect: aadarshkushwaha.com.np
 
